@@ -41,8 +41,8 @@ Easily create rules with specific criteria including protocol, source/destinatio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-firewall-prototype.git
-cd python-firewall-prototype
+git clone https://github.com/Rikiza89/Firewall-prototype.git
+cd Firewall-prototype
 ```
 
 2. Ensure Python 3.7+ is installed:
