@@ -246,7 +246,7 @@ This software is provided for educational purposes only. The authors are not res
 
 ## Contact
 
-- GitHub: [@yourusername](https://github.com/Rikiza89)
+- GitHub: [@Rikiza89](https://github.com/Rikiza89)
 
 ## Support
 
