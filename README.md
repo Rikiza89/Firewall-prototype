@@ -205,10 +205,6 @@ with pydivert.WinDivert("true") as w:
 - Enterprise firewall solutions
 - Professional network security appliances
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ### Development Setup
 
 1. Fork the repository
@@ -242,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This software is provided for educational purposes only. The authors are not responsible for any misuse or damage caused by this program. Always ensure you have proper authorization before monitoring or filtering network traffic.
+This software is provided for educational purposes only. The author is not responsible for any misuse or damage caused by this program. Always ensure you have proper authorization before monitoring or filtering network traffic.
 
 ## Contact
 
@@ -250,8 +246,4 @@ This software is provided for educational purposes only. The authors are not res
 
 ## Support
 
-If you find this project helpful, please consider giving it a ⭐️ on GitHub!
-
----
-
-**Note**: Remember to replace `yourusername` and contact information with your actual GitHub username and details before uploading.
+If you find this project helpful, please consider giving it a ⭐️!
